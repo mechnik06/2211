@@ -47,7 +47,7 @@
 ### 6.Symbol
 ### 7.BigInt
 ## И один из них переход к OBJECTS
-### Это тип Objects
+### Это тип Object
 
  
 
