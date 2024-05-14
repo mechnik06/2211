@@ -47,7 +47,16 @@
 ### 6.Symbol
 ### 7.BigInt
 ## И один из них переход к OBJECTS
-### Это тип Object
+### Это тип Object 
+# Операторы в JavaScript
+![Alt-текст](/2211/operator.png "Заголовок изображения")
+#  Три важные темы
+
+## 1.CONDITIONS
+## 2.LOOPS
+## 3.FUNCTIONS
+
+# 1.УСЛОВИЕ Оператор if/else
 
  
 
